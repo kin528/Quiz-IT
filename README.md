@@ -1,16 +1,28 @@
-# macabenta_ken_quiz_it
 
-A new Flutter project.
+Week 1-2
 
-## Getting Started
+Discovery and Research
 
-This project is a starting point for a Flutter application.
+Week 3-4
 
-A few resources to get you started if this is your first Flutter project:
+User Journey Mapping & Wireframe Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Week 5-6
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User Interface and User Experience Design
+
+Week 7-8
+
+Development of Core Features (Quiz Functions and Profiles)
+
+Week 9
+
+Testing and Quality Assurance
+
+Week 10
+
+Client Review and Feedback
+
+Week 11-12
+
+Final Adjustments and Deployment Preperation
